@@ -1,0 +1,16 @@
+C:\DEV\CsharpCourse\src\todo\bin\Debug\net9.0\todo.exe
+C:\DEV\CsharpCourse\src\todo\bin\Debug\net9.0\todo.deps.json
+C:\DEV\CsharpCourse\src\todo\bin\Debug\net9.0\todo.runtimeconfig.json
+C:\DEV\CsharpCourse\src\todo\bin\Debug\net9.0\todo.dll
+C:\DEV\CsharpCourse\src\todo\bin\Debug\net9.0\todo.pdb
+C:\DEV\CsharpCourse\src\todo\obj\Debug\net9.0\todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\CsharpCourse\src\todo\obj\Debug\net9.0\todo.AssemblyInfoInputs.cache
+C:\DEV\CsharpCourse\src\todo\obj\Debug\net9.0\todo.AssemblyInfo.cs
+C:\DEV\CsharpCourse\src\todo\obj\Debug\net9.0\todo.csproj.CoreCompileInputs.cache
+C:\DEV\CsharpCourse\src\todo\obj\Debug\net9.0\todo.sourcelink.json
+C:\DEV\CsharpCourse\src\todo\obj\Debug\net9.0\todo.dll
+C:\DEV\CsharpCourse\src\todo\obj\Debug\net9.0\refint\todo.dll
+C:\DEV\CsharpCourse\src\todo\obj\Debug\net9.0\todo.pdb
+C:\DEV\CsharpCourse\src\todo\obj\Debug\net9.0\todo.genruntimeconfig.cache
+C:\DEV\CsharpCourse\src\todo\obj\Debug\net9.0\ref\todo.dll
+C:\DEV\CsharpCourse\src\todo\obj\Debug\net9.0\todo.csproj.Up2Date
