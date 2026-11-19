@@ -30,28 +30,24 @@ namespace todo
     {
         static void Main(string[] args)
         {
-            // 텍스트 , 실수 , 정수
-            // string 문자열 "....." / "" 없으면 에러가 뜬다. -> 컨텍스트가 없음 이라고 뜬다.
-            // 변수-> 타입을 정의했는대요
-
-            string title = "모험가길드 + @";
-            float version = 1.01f;
-            string completetitle = $"{title} 1.01";
-            int hp = 10 - 1;
-
-            int age = 25;
-            int year = 2024;
-            int temperature = -5;
-
-            //c# 콘솔에서 출력을 할것인데 타이틀 이름은 @@@ 이고 버전은 1.0으로 출력하는 코드
-            Console.WriteLine($"{title} {version}");
-            Console.WriteLine(title); // 문자열 - string
-            Console.WriteLine(hp);       // 정수 - int
-            Console.WriteLine(1.1f); // 1이 적으면 1이 나온다 . 1.0 적었을때 실수가 안나오고 어떻게 해야 실수를 표현할 수 있을까?
-            Console.WriteLine(false);
-
-            Console.WriteLine();
-
+            
+            Console.WriteLine("C# 공부를 시작합니다.");
+            Console.WriteLine("오늘의 목표: 직접 실행하기");
+            Console.WriteLine("내용에 대해 이해하기");
+            Console.WriteLine("공부한 내용 잘 기억하기");
+            Console.WriteLine("설명해주시는 내용에 잘 집중하기");
+            Console.WriteLine("모르는 내용은 바로 질문하기");
+            Console.WriteLine("배우는 내용 메모 잘 하기 - 변수의 선언(declaration)");
+            Console.WriteLine("int 정수 , health 변수(이름) , ; 문장끝");
+            Console.WriteLine("int health = 100"); //*
+                                                   //int는 변수고, 100처음 값 , 중간 = 대입연산자
+                                                   //100 직접 적은 값리터럴(literal) */
+            Console.WriteLine("double 소수 , bool, char, string "); //* bool = true 또는 false
+                                                                  // char = UTF-16 코드 단위 하나
+                                                                  // string = 문자열
+            Console.WriteLine("");
+            
+            
 
         }
     }

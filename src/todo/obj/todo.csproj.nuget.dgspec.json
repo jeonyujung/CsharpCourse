@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DEV\\CsharpCourse\\src\\todo\\todo.csproj": {}
+    "C:\\DEV\\@CsharpCourse\\src\\todo\\todo.csproj": {}
   },
   "projects": {
-    "C:\\DEV\\CsharpCourse\\src\\todo\\todo.csproj": {
+    "C:\\DEV\\@CsharpCourse\\src\\todo\\todo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DEV\\CsharpCourse\\src\\todo\\todo.csproj",
+        "projectUniqueName": "C:\\DEV\\@CsharpCourse\\src\\todo\\todo.csproj",
         "projectName": "todo",
-        "projectPath": "C:\\DEV\\CsharpCourse\\src\\todo\\todo.csproj",
+        "projectPath": "C:\\DEV\\@CsharpCourse\\src\\todo\\todo.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\DEV\\CsharpCourse\\src\\todo\\obj\\",
+        "outputPath": "C:\\DEV\\@CsharpCourse\\src\\todo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
