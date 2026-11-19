@@ -12,7 +12,7 @@
 | 날짜 | 한 일 | 작성 문서 | PR |
 |---|---|---|---|
 | 2026-11-18 | 변수 | [TIL](./doc/프로그래밍언어.md) | [#1](____) |
-| 2026-11-19 | 웹입문서 | [TIL](./C:\DEV\@CsharpCourse\src\todo/todo.slnx) | [#1](____) |
+| 2026-11-19 | 웹입문서 | [TIL](C:\DEV\@CsharpCourse\src\todo/todo.slnx) | [#1](____) |
 
 ## 바로가기
 
