@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\DEV\\@CsharpCourse\\src\\todo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|todo.csproj|c:\\dev\\@csharpcourse\\src\\todo\\upgradeloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|todo.csproj|solutionrelative:upgradeloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|todo.csproj|c:\\dev\\@csharpcourse\\src\\todo\\\uBC18\uBCF5\uBB38.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|todo.csproj|solutionrelative:\uBC18\uBCF5\uBB38.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|todo.csproj|c:\\dev\\@csharpcourse\\src\\todo\\\uB370\uC774\uD130\uC758\uD750\uB984\uC81C\uC5B4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|todo.csproj|solutionrelative:\uB370\uC774\uD130\uC758\uD750\uB984\uC81C\uC5B4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|todo.csproj|c:\\dev\\@csharpcourse\\src\\todo\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|todo.csproj|solutionrelative:name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|todo.csproj|c:\\dev\\@csharpcourse\\src\\todo\\todo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|todo.csproj|solutionrelative:todo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpgradeLoop.cs",
+              "DocumentMoniker": "C:\\DEV\\@CsharpCourse\\src\\todo\\UpgradeLoop.cs",
+              "RelativeDocumentMoniker": "UpgradeLoop.cs",
+              "ToolTip": "C:\\DEV\\@CsharpCourse\\src\\todo\\UpgradeLoop.cs",
+              "RelativeToolTip": "UpgradeLoop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T08:46:00.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uBC18\uBCF5\uBB38.cs",
+              "DocumentMoniker": "C:\\DEV\\@CsharpCourse\\src\\todo\\\uBC18\uBCF5\uBB38.cs",
+              "RelativeDocumentMoniker": "\uBC18\uBCF5\uBB38.cs",
+              "ToolTip": "C:\\DEV\\@CsharpCourse\\src\\todo\\\uBC18\uBCF5\uBB38.cs",
+              "RelativeToolTip": "\uBC18\uBCF5\uBB38.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T08:28:15.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "name.cs",
+              "DocumentMoniker": "C:\\DEV\\@CsharpCourse\\src\\todo\\name.cs",
+              "RelativeDocumentMoniker": "name.cs",
+              "ToolTip": "C:\\DEV\\@CsharpCourse\\src\\todo\\name.cs",
+              "RelativeToolTip": "name.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T08:11:00.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\uB370\uC774\uD130\uC758\uD750\uB984\uC81C\uC5B4.cs",
+              "DocumentMoniker": "C:\\DEV\\@CsharpCourse\\src\\todo\\\uB370\uC774\uD130\uC758\uD750\uB984\uC81C\uC5B4.cs",
+              "RelativeDocumentMoniker": "\uB370\uC774\uD130\uC758\uD750\uB984\uC81C\uC5B4.cs",
+              "ToolTip": "C:\\DEV\\@CsharpCourse\\src\\todo\\\uB370\uC774\uD130\uC758\uD750\uB984\uC81C\uC5B4.cs",
+              "RelativeToolTip": "\uB370\uC774\uD130\uC758\uD750\uB984\uC81C\uC5B4.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T07:11:02.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "todo",
+              "DocumentMoniker": "C:\\DEV\\@CsharpCourse\\src\\todo\\todo.csproj",
+              "RelativeDocumentMoniker": "todo.csproj",
+              "ToolTip": "C:\\DEV\\@CsharpCourse\\src\\todo\\todo.csproj",
+              "RelativeToolTip": "todo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-20T07:09:46.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
